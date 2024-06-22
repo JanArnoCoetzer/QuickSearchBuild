@@ -1,4 +1,4 @@
-Version{0.2.1b}
+Version{0.2.2b}
 First_Index{false},
 Launch_On_Start{true},
 Index_On_Start{false},

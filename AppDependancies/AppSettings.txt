@@ -1,6 +1,6 @@
-Version{0.2.1b}
+Version{0.2.2b}
 First_Index{false},
-Launch_On_Start{true},
+Launch_On_Start{false},
 Index_On_Start{false},
 Index_On_Start_Delay{10},
 Smart_Indexing{false},
